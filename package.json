@@ -1,0 +1,23 @@
+{
+  "name": "interests",
+  "version": "0.0.0",
+  "description": "A complete list of interests, with icons included! This list is used in tisn.app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tisn/interests.git"
+  },
+  "keywords": [
+    "interests",
+    "icons"
+  ],
+  "author": "Alberto Pérez de Rada Fiol",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Tisn/interests/issues"
+  },
+  "homepage": "https://github.com/Tisn/interests#readme"
+}
