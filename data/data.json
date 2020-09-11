@@ -1,0 +1,476 @@
+[
+  {
+    "category": "Entertainment",
+    "interests": [
+      {
+        "name": "Art",
+        "icon": "https://image.flaticon.com/icons/svg/2811/2811172.svg"
+      },
+      {
+        "name": "Ballet",
+        "icon": "https://image.flaticon.com/icons/png/512/1844/1844042.png"
+      },
+      {
+        "name": "Bars",
+        "icon": "https://image.flaticon.com/icons/svg/742/742096.svg"
+      },
+      {
+        "name": "Board games",
+        "icon": "https://image.flaticon.com/icons/png/512/2740/2740984.png"
+      },
+      {
+        "name": "Comics",
+        "icon": "https://image.flaticon.com/icons/svg/2628/2628930.svg"
+      },
+      {
+        "name": "Concerts",
+        "icon": "https://image.flaticon.com/icons/png/512/1789/1789786.png"
+      },
+      {
+        "name": "Festivals",
+        "icon": "https://image.flaticon.com/icons/png/512/2406/2406687.png"
+      },
+      {
+        "name": "Games",
+        "icon": "https://image.flaticon.com/icons/svg/744/744737.svg"
+      },
+      {
+        "name": "Literature",
+        "icon": "https://image.flaticon.com/icons/svg/2599/2599249.svg"
+      },
+      {
+        "name": "Magazines",
+        "icon": "https://image.flaticon.com/icons/svg/653/653014.svg"
+      },
+      {
+        "name": "Movies",
+        "icon": "https://image.flaticon.com/icons/svg/2824/2824516.svg"
+      },
+      {
+        "name": "Music",
+        "icon": "https://image.flaticon.com/icons/svg/651/651758.svg"
+      },
+      {
+        "name": "News",
+        "icon": "https://image.flaticon.com/icons/svg/1825/1825151.svg"
+      },
+      {
+        "name": "Night clubs",
+        "icon": "https://image.flaticon.com/icons/svg/1930/1930684.svg"
+      },
+      {
+        "name": "Reading",
+        "icon": "https://image.flaticon.com/icons/svg/2599/2599411.svg"
+      },
+      {
+        "name": "Series",
+        "icon": "https://image.flaticon.com/icons/svg/2881/2881114.svg"
+      },
+      {
+        "name": "Theatre",
+        "icon": "https://image.flaticon.com/icons/svg/2061/2061056.svg"
+      }
+    ]
+  },
+  {
+    "category": "Fitness and wellness",
+    "interests": [
+      {
+        "name": "Bodybuilding",
+        "icon": "https://image.flaticon.com/icons/png/512/2307/2307905.png"
+      },
+      {
+        "name": "Fitness",
+        "icon": "https://image.flaticon.com/icons/svg/2307/2307959.svg"
+      },
+      {
+        "name": "Meditation",
+        "icon": "https://image.flaticon.com/icons/png/512/2781/2781698.png"
+      },
+      {
+        "name": "Weightlifting",
+        "icon": "https://image.flaticon.com/icons/svg/2307/2307879.svg"
+      },
+      {
+        "name": "Yoga",
+        "icon": "https://image.flaticon.com/icons/svg/2307/2307981.svg"
+      }
+    ]
+  },
+  {
+    "category": "Hobbies and activities",
+    "interests": [
+      {
+        "name": "Acting",
+        "icon": "https://image.flaticon.com/icons/svg/2636/2636923.svg"
+      },
+      {
+        "name": "Automobiles",
+        "icon": "https://image.flaticon.com/icons/svg/500/500707.svg"
+      },
+      {
+        "name": "Charity",
+        "icon": "https://image.flaticon.com/icons/svg/838/838618.svg"
+      },
+      {
+        "name": "Chat",
+        "icon": "https://image.flaticon.com/icons/svg/509/509535.svg"
+      },
+      {
+        "name": "Cooking",
+        "icon": "https://image.flaticon.com/icons/svg/2863/2863411.svg"
+      },
+      {
+        "name": "Crafts",
+        "icon": "https://image.flaticon.com/icons/svg/2611/2611210.svg"
+      },
+      {
+        "name": "Dance",
+        "icon": "https://image.flaticon.com/icons/svg/498/498377.svg"
+      },
+      {
+        "name": "Furniture",
+        "icon": "https://image.flaticon.com/icons/svg/2610/2610836.svg"
+      },
+      {
+        "name": "Gardening",
+        "icon": "https://image.flaticon.com/icons/svg/2824/2824501.svg"
+      },
+      {
+        "name": "Motorcycles",
+        "icon": "https://image.flaticon.com/icons/svg/519/519598.svg"
+      },
+      {
+        "name": "Nature",
+        "icon": "https://image.flaticon.com/icons/svg/2899/2899987.svg"
+      },
+      {
+        "name": "Painting",
+        "icon": "https://image.flaticon.com/icons/svg/2736/2736499.svg"
+      },
+      {
+        "name": "Pets",
+        "icon": "https://image.flaticon.com/icons/svg/2064/2064863.svg"
+      },
+      {
+        "name": "Photography",
+        "icon": "https://image.flaticon.com/icons/svg/2636/2636410.svg"
+      },
+      {
+        "name": "Politics",
+        "icon": "https://image.flaticon.com/icons/svg/1672/1672268.svg"
+      },
+      {
+        "name": "Religion",
+        "icon": "https://image.flaticon.com/icons/svg/2242/2242222.svg"
+      },
+      {
+        "name": "Sculpture",
+        "icon": "https://image.flaticon.com/icons/png/512/2579/2579979.png"
+      },
+      {
+        "name": "Singing",
+        "icon": "https://image.flaticon.com/icons/svg/1974/1974848.svg"
+      },
+      {
+        "name": "Sustainability",
+        "icon": "https://image.flaticon.com/icons/svg/2371/2371903.svg"
+      },
+      {
+        "name": "Theme parks",
+        "icon": "https://image.flaticon.com/icons/png/512/2809/2809645.png"
+      },
+      {
+        "name": "Travel",
+        "icon": "https://image.flaticon.com/icons/svg/1175/1175017.svg"
+      },
+      {
+        "name": "Vacations",
+        "icon": "https://image.flaticon.com/icons/svg/1209/1209425.svg"
+      },
+      {
+        "name": "Volunteering",
+        "icon": "https://image.flaticon.com/icons/svg/2634/2634501.svg"
+      },
+      {
+        "name": "Writing",
+        "icon": "https://image.flaticon.com/icons/svg/1830/1830934.svg"
+      }
+    ]
+  },
+  {
+    "category": "Industry and business",
+    "interests": [
+      {
+        "name": "Advertising",
+        "icon": "https://image.flaticon.com/icons/svg/2787/2787828.svg"
+      },
+      {
+        "name": "Agriculture",
+        "icon": "https://image.flaticon.com/icons/svg/2708/2708842.svg"
+      },
+      {
+        "name": "Architecture",
+        "icon": "https://image.flaticon.com/icons/svg/2771/2771336.svg"
+      },
+      {
+        "name": "Aviation",
+        "icon": "https://image.flaticon.com/icons/svg/2302/2302811.svg"
+      },
+      {
+        "name": "Business",
+        "icon": "https://image.flaticon.com/icons/svg/1162/1162489.svg"
+      },
+      {
+        "name": "Construction",
+        "icon": "https://image.flaticon.com/icons/svg/819/819392.svg"
+      },
+      {
+        "name": "Design",
+        "icon": "https://image.flaticon.com/icons/svg/802/802033.svg"
+      },
+      {
+        "name": "Economics",
+        "icon": "https://image.flaticon.com/icons/svg/2179/2179261.svg"
+      },
+      {
+        "name": "Education",
+        "icon": "https://image.flaticon.com/icons/svg/2681/2681857.svg"
+      },
+      {
+        "name": "Engineering",
+        "icon": "https://image.flaticon.com/icons/svg/897/897168.svg"
+      },
+      {
+        "name": "Entrepreneurship",
+        "icon": "https://image.flaticon.com/icons/svg/1535/1535019.svg"
+      },
+      {
+        "name": "Health care",
+        "icon": "https://image.flaticon.com/icons/svg/1021/1021606.svg"
+      },
+      {
+        "name": "Insurance",
+        "icon": "https://image.flaticon.com/icons/svg/2754/2754975.svg"
+      },
+      {
+        "name": "Investment",
+        "icon": "https://image.flaticon.com/icons/svg/2474/2474455.svg"
+      },
+      {
+        "name": "Law",
+        "icon": "https://image.flaticon.com/icons/svg/1208/1208198.svg"
+      },
+      {
+        "name": "Management",
+        "icon": "https://image.flaticon.com/icons/svg/1208/1208203.svg"
+      },
+      {
+        "name": "Marketing",
+        "icon": "https://image.flaticon.com/icons/svg/1378/1378593.svg"
+      },
+      {
+        "name": "Real estate",
+        "icon": "https://image.flaticon.com/icons/svg/602/602175.svg"
+      },
+      {
+        "name": "Retail",
+        "icon": "https://image.flaticon.com/icons/svg/1198/1198361.svg"
+      },
+      {
+        "name": "Sales",
+        "icon": "https://image.flaticon.com/icons/svg/1312/1312187.svg"
+      },
+      {
+        "name": "Science",
+        "icon": "https://image.flaticon.com/icons/svg/2784/2784451.svg"
+      },
+      {
+        "name": "Social media",
+        "icon": "https://image.flaticon.com/icons/svg/2065/2065203.svg"
+      },
+      {
+        "name": "Software",
+        "icon": "https://image.flaticon.com/icons/svg/1149/1149168.svg"
+      }
+    ]
+  },
+  {
+    "category": "Shopping and fashion",
+    "interests": [
+      {
+        "name": "Beauty salons",
+        "icon": "https://image.flaticon.com/icons/svg/1940/1940922.svg"
+      },
+      {
+        "name": "Boutiques",
+        "icon": "https://image.flaticon.com/icons/svg/1719/1719625.svg"
+      },
+      {
+        "name": "Clothing",
+        "icon": "https://image.flaticon.com/icons/svg/2794/2794012.svg"
+      },
+      {
+        "name": "Cosmetics",
+        "icon": "https://image.flaticon.com/icons/svg/545/545159.svg"
+      },
+      {
+        "name": "Coupons",
+        "icon": "https://image.flaticon.com/icons/svg/423/423809.svg"
+      },
+      {
+        "name": "Discount stores",
+        "icon": "https://image.flaticon.com/icons/svg/411/411807.svg"
+      },
+      {
+        "name": "Fragrances",
+        "icon": "https://image.flaticon.com/icons/svg/2611/2611095.svg"
+      },
+      {
+        "name": "Hairdressing",
+        "icon": "https://image.flaticon.com/icons/svg/393/393164.svg"
+      },
+      {
+        "name": "Handbags",
+        "icon": "https://image.flaticon.com/icons/svg/679/679997.svg"
+      },
+      {
+        "name": "Jewelry",
+        "icon": "https://image.flaticon.com/icons/svg/703/703280.svg"
+      },
+      {
+        "name": "Piercings",
+        "icon": "https://image.flaticon.com/icons/svg/1686/1686352.svg"
+      },
+      {
+        "name": "Shoes",
+        "icon": "https://image.flaticon.com/icons/svg/1940/1940912.svg"
+      },
+      {
+        "name": "Shopping malls",
+        "icon": "https://image.flaticon.com/icons/svg/1057/1057313.svg"
+      },
+      {
+        "name": "Spas",
+        "icon": "https://image.flaticon.com/icons/svg/2770/2770760.svg"
+      },
+      {
+        "name": "Sunglasses",
+        "icon": "https://image.flaticon.com/icons/svg/399/399745.svg"
+      },
+      {
+        "name": "Tattoos",
+        "icon": "https://image.flaticon.com/icons/svg/1686/1686442.svg"
+      },
+      {
+        "name": "Toys",
+        "icon": "https://image.flaticon.com/icons/svg/522/522043.svg"
+      }
+    ]
+  },
+  {
+    "category": "Sports",
+    "interests": [
+      {
+        "name": "American football",
+        "icon": "https://image.flaticon.com/icons/svg/625/625369.svg"
+      },
+      {
+        "name": "Baseball",
+        "icon": "https://image.flaticon.com/icons/svg/484/484482.svg"
+      },
+      {
+        "name": "Basketball",
+        "icon": "https://image.flaticon.com/icons/svg/500/500245.svg"
+      },
+      {
+        "name": "Bowling",
+        "icon": "https://image.flaticon.com/icons/svg/2438/2438473.svg"
+      },
+      {
+        "name": "Boxing",
+        "icon": "https://image.flaticon.com/icons/svg/418/418171.svg"
+      },
+      {
+        "name": "Chess",
+        "icon": "https://image.flaticon.com/icons/svg/2633/2633894.svg"
+      },
+      {
+        "name": "Cycling",
+        "icon": "https://image.flaticon.com/icons/svg/2906/2906833.svg"
+      },
+      {
+        "name": "Esports",
+        "icon": "https://image.flaticon.com/icons/svg/2285/2285714.svg"
+      },
+      {
+        "name": "Fishing",
+        "icon": "https://image.flaticon.com/icons/svg/1830/1830797.svg"
+      },
+      {
+        "name": "Football",
+        "icon": "https://image.flaticon.com/icons/svg/2784/2784491.svg"
+      },
+      {
+        "name": "Golf",
+        "icon": "https://image.flaticon.com/icons/svg/491/491972.svg"
+      },
+      {
+        "name": "Martial arts",
+        "icon": "https://image.flaticon.com/icons/svg/625/625357.svg"
+      },
+      {
+        "name": "Ping pong",
+        "icon": "https://image.flaticon.com/icons/svg/866/866748.svg"
+      },
+      {
+        "name": "Poker",
+        "icon": "https://image.flaticon.com/icons/svg/867/867864.svg"
+      },
+      {
+        "name": "Racing",
+        "icon": "https://image.flaticon.com/icons/svg/469/469122.svg"
+      },
+      {
+        "name": "Running",
+        "icon": "https://image.flaticon.com/icons/svg/2460/2460093.svg"
+      },
+      {
+        "name": "Sailing",
+        "icon": "https://image.flaticon.com/icons/svg/434/434077.svg"
+      },
+      {
+        "name": "Skiing",
+        "icon": "https://image.flaticon.com/icons/svg/625/625360.svg"
+      },
+      {
+        "name": "Snowboarding",
+        "icon": "https://image.flaticon.com/icons/svg/2592/2592838.svg"
+      },
+      {
+        "name": "Speedcubing",
+        "icon": "https://image.flaticon.com/icons/svg/522/522052.svg"
+      },
+      {
+        "name": "Surfing",
+        "icon": "https://image.flaticon.com/icons/svg/2768/2768580.svg"
+      },
+      {
+        "name": "Swimming",
+        "icon": "https://image.flaticon.com/icons/svg/495/495821.svg"
+      },
+      {
+        "name": "Tennis",
+        "icon": "https://image.flaticon.com/icons/svg/802/802289.svg"
+      },
+      {
+        "name": "Volleyball",
+        "icon": "https://image.flaticon.com/icons/svg/2906/2906725.svg"
+      },
+      {
+        "name": "Waterpolo",
+        "icon": "https://image.flaticon.com/icons/svg/495/495843.svg"
+      }
+    ]
+  }
+]
